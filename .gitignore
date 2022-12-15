@@ -1,2 +1,6 @@
+#Intelij
+.idea
+
 #To ignore .terraform files
 **/.terraform/*
+.terraform.lock.hcl
